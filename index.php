@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Jett Smurf God</h1>
+        <h1>Jett iron God</h1>
         <nav>
             <a href="#">Home</a>
             <a href="#">Articles</a>
